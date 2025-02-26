@@ -131,7 +131,7 @@ python setup.py build_ext --inplace
 ```
 
 **Download SAM2 Model**  
-Download `sam2_hiera_tiny.pt` from [this link](https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_small.pt) and place it in `InDeform3DGS/models/pretrained/SAM2_model/sam2_hiera_tiny.pt`.
+Download `sam2_hiera_tiny.pt` from [this link](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_tiny.pt) and place it in `InDeform3DGS/models/pretrained/SAM2_model/sam2_hiera_tiny.pt`.
 
 #### 3. Monst3r Setup
 

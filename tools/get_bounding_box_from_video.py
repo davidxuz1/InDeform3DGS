@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import sys
 import argparse
@@ -7,7 +6,6 @@ import tkinter as tk
 from tkinter import filedialog, Scale
 import imageio.v3 as iio
 import numpy as np
-=======
 import cv2
 import os
 import sys
@@ -176,13 +174,13 @@ def main():
     ymin = int(y1 * scale_y)
     xmax = int(x2 * scale_x)
     ymax = int(y2 * scale_y)
+    
+    # Usar las coordenadas ya obtenidas con el selector Tkinter
+    xmin = min(selector.start_x, selector.end_x)
+    ymin = min(selector.start_y, selector.end_y)
+    xmax = max(selector.start_x, selector.end_x)
+    ymax = max(selector.start_y, selector.end_y)
 
-    # Seleccionar bounding box manualmente
-    bbox = cv2.selectROI("Selecciona el bounding box", frame, fromCenter=False, showCrosshair=True)
-    cv2.destroyAllWindows()
-
-    x, y, w, h = bbox
-    xmin, ymin, xmax, ymax = int(x), int(y), int(x+w), int(y+h)
 
     # Crear directorio de salida si no existe
     output_dir = os.path.join(PROJECT_ROOT, "data/tools_output")

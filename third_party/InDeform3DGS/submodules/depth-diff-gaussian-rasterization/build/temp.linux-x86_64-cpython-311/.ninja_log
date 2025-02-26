@@ -1,0 +1,6 @@
+# ninja log v5
+1	1931	1740513298129000629	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/depth-diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-311/cuda_rasterizer/forward.o	19d3953111535e64
+1	1979	1740513298180001521	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/depth-diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-311/cuda_rasterizer/backward.o	fda139f08de648ec
+1	6617	1740513302816083064	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/depth-diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-311/cuda_rasterizer/rasterizer_impl.o	649decfd43674626
+1	9557	1740513305755135257	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/depth-diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-311/ext.o	263d7bfd76c6c83
+1	23583	1740513319774389453	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/depth-diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-311/rasterize_points.o	2e82f4ebeb95251b

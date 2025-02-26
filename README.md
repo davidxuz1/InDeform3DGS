@@ -109,7 +109,6 @@ Install the required Python dependencies:
 
 ```bash
 cd InDeform3DGS
-conda install tensorflow
 pip install -r requirements.txt
 pip install git+https://github.com/Junyi42/viser.git
 ```

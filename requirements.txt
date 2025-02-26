@@ -1,0 +1,50 @@
+#torch>=2.5.1
+#torchvision>=0.20.1
+#torchaudio>=2.5.1
+
+# Base dependencies
+numpy==1.26.4
+cmake>=3.27.0
+ninja>=1.11.1
+
+# YOLOv11
+ultralytics>=8.3.48
+optuna>=4.1.0
+
+# Dehaze
+numba>=0.60.0
+opencv-contrib-python>=4.10.0
+
+
+# SAM2 -> manual installation
+
+# Inpainting
+imageio >=2.36.1
+imageio[ffmpeg]>=0.5.1
+
+# Monst3r
+gradio>=5.8.0
+evo>=1.30.4
+einops>=0.8.0
+roma>=1.5.1
+trimesh>=4.5.3
+safetensors>=0.4.5
+pynvml>=12.0.0
+
+# Depth
+xformers==0.0.28.post3
+
+# InDeform3DGS
+mmcv==1.7.2
+plyfile>=1.1
+open3d>=0.18.0
+scikit-optimize>=0.10.2
+pyiqa
+tensorflow_hub
+# simple-knn -> manual installation
+# diff-gaussian-rasterization-w-depth -> manual installation
+# tinycudann -> manual installation
+
+# Tools
+imageio[pyav]
+pyliblzfse==0.4.1 

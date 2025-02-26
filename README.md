@@ -59,7 +59,7 @@ Within the `InDeform3DGS` directory, set up the following folder structure:
 
 1. **Create the `data` folder and all required subfolders**:
    - `data`: This folder will store intermediate and processed data.
-   - `data/input`: Place the **`video.mp4` file** to be processed here.
+   - `data/input`: Place the **`video.mp4`** file to be processed here.
    - `data/intermediate`: Stores intermediate results from each processing stage.
    - `data/logs`: Saves logs related to execution.
    - `data/output`: Contains the final reconstruction output.

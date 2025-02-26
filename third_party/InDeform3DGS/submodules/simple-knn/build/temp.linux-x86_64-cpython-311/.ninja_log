@@ -1,0 +1,12 @@
+# ninja log v5
+1	6543	1733216549018603191	/home/jiajunxu/SurgicalGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	6bf33c79c0447023
+0	9167	1733216551641633533	/home/jiajunxu/SurgicalGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	5561037d7682bf94
+1	24075	1733216566544806492	/home/jiajunxu/SurgicalGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	5413fbd415ccf25d
+0	7700	1733722155252355702	/home/jiajunxu/TFM/VALIDOS/SurgicalGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	b45a4a050e4499dd
+0	10303	1733722157854411877	/home/jiajunxu/TFM/VALIDOS/SurgicalGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	6150a0d58924b3de
+0	24547	1733722172093719226	/home/jiajunxu/TFM/VALIDOS/SurgicalGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	2051f18e744227f5
+7	6627	1740496850077613948	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	8135020d777a90c3
+7	9402	1740496852850904876	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	1dd276959bc5650d
+7	23263	1740496866705313102	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	c1d9f785d4e7af9d
+23	8896	1740513408416184144	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	1dd276959bc5650d
+23	22760	1740513422277491917	/home/jiajunxu/TFM/InDeform3DGS/third_party/Deform3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	c1d9f785d4e7af9d

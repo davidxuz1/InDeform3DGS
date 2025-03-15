@@ -5,6 +5,9 @@ The **InDeform3DGS project** is a **comprehensive processing pipeline** that **c
 
 The system includes multiple **computer vision** and **deep learning** modules that process the input video **to create the structured dataset**, which is subsequently used for **3D reconstruction**.
 
+For more details on the methodology and implementation, refer to the thesis:  
+🔗 [DOI: 10.5281/zenodo.15033119](https://doi.org/10.5281/zenodo.15033119)
+
 ### **Pipeline Stages**
 1. **Raw Video Input**: The system takes an unprocessed **RGB video** as input.
 2. **Dehazing Module**: Enhances visibility in hazy or low-contrast scenes.
